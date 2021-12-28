@@ -1,10 +1,10 @@
-Hi xD
-What are you looking for ?
-learn from everyone.
-But make you own path xD
-😄
+ Hi xD
+- What are you looking for ?
+- learn from everyone.
+- But make you own path xD
 
 
+<!-- 
 **kaal786/kaal786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
