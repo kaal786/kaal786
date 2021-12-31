@@ -1,7 +1,5 @@
  Hi xD
-- What are you looking for ?
-- learn from everyone.
-- But make you own path xD
+
 
 
 <!-- 
